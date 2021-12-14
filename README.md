@@ -10,5 +10,5 @@
 </p>
 
 <p>
-  Видео было взято [отсюда](https://media.xiph.org)
+  Видео было взято <a href=https://media.xiph.org> отсюда. </a>
 </p>
