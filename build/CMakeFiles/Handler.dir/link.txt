@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Handler.dir/main.cpp.o  -o Handler   -L/home/nick/progs/C/t/proj/tmp  -Wl,-rpath,/home/nick/progs/C/t/proj/tmp tmp/libmyHandler.a 

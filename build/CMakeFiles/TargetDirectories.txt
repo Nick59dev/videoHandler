@@ -1,0 +1,6 @@
+/home/nick/progs/C/t/proj/build/CMakeFiles/rebuild_cache.dir
+/home/nick/progs/C/t/proj/build/CMakeFiles/edit_cache.dir
+/home/nick/progs/C/t/proj/build/CMakeFiles/Handler.dir
+/home/nick/progs/C/t/proj/build/tmp/CMakeFiles/rebuild_cache.dir
+/home/nick/progs/C/t/proj/build/tmp/CMakeFiles/edit_cache.dir
+/home/nick/progs/C/t/proj/build/tmp/CMakeFiles/myHandler.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../tmp/processingFile.h
+st.h
+../tmp/st.h
+
+../tmp/st.h
+
+/home/nick/progs/C/t/proj/main.cpp
+iostream
+-
+processingFile.h
+-
+
